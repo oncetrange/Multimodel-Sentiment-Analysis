@@ -1,0 +1,13 @@
+# idea
+.idea
+.vscode
+
+# virtual environment
+venv
+
+# cache
+.pytest_cache
+__pycache__
+
+# log
+*.log
